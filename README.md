@@ -1,4 +1,4 @@
-﻿# 🛡️ Zero-Trust Cybersecurity Portfolio
+﻿#  Zero-Trust Cybersecurity Portfolio
 
 ![Security Rating](https://img.shields.io/badge/Mozilla_Observatory-A+-success.svg)
 ![Architecture](https://img.shields.io/badge/Architecture-Stateless_SPA-blue.svg)
@@ -7,7 +7,7 @@
 Welcome to the source code of my personal Cybersecurity Portfolio. 
 As a **SOC Analyst & Cybersecurity Specialist**, I wanted my personal space on the web to reflect my mindset. Instead of building a standard website with a traditional backend, I asked myself: *"How can I make this platform unhackable?"*. The answer was to completely eliminate the attack surface.
 
-## 🏗️ Architecture & Security Features
+##  Architecture & Security Features
 
 This project is a **100% Stateless and Serverless Single Page Application (SPA)**.
 By removing the database and the backend server, traditional OWASP Top 10 vulnerabilities (like SQL Injection, Command Injection, or IDOR) are natively mitigated.
@@ -21,15 +21,15 @@ By removing the database and the backend server, traditional OWASP Top 10 vulner
 - **Cipher Text Animation:** Custom React IntersectionObserver hook that scrambles text into hex codes and dynamically "decrypts" them on scroll.
 - **Mini-CTF (Easter Egg):** The site features a hidden keylogger that listens for a specific flag. Try opening the DevTools Console on the live site to find the first clue, and type the flag directly on your keyboard to trigger a "System Compromised" payload.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend:** React.js, Tailwind CSS, Lucide Icons
 - **Build Tool:** Vite
 - **Hosting:** IONOS (Apache Web Server)
 
-## 🤖 Vibe Coding & Code Review
+##  Vibe Coding & Code Review
 This project was accelerated using **Vibe Coding** (AI-assisted development). However, unlike passively generated codebases, *every single line of code, dependency, and architectural decision was strictly reviewed, manually tested, and validated* to ensure zero vulnerabilities and clean code architecture.
 
-## 👨‍💻 About Me
+##  About Me
 I am Anthony Candeloro, passionate about Blue Teaming, Threat Intelligence, and secure infrastructures. Connect with me on [LinkedIn](https://www.linkedin.com/in/anthony-candeloro-869126379) or visit the live site.
 
 ---
